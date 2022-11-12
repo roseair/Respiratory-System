@@ -1,0 +1,52 @@
+nav a:hover{
+  background-color: grey;
+  color: black;
+}
+
+nav a:active{
+  background-color: grey;
+  color:black;
+}
+
+nav a{
+  text-decoration:none;
+  margin:15px;
+}
+
+body{
+  background-image:url("https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+h1, a, p {
+  color:white;
+}
+
+nav{
+text-align:right;
+}
+
+h1{
+text-align:center;
+}
+
+h1:first-letter{
+font-size:1em;
+}
+
+p:first-letter{
+font-size:1.5em;
+}
+
+*{
+color:white;
+}
+
+a[target]{
+color: #c4d9ff;
+}
+
+img{
+padding:10px;
+}
