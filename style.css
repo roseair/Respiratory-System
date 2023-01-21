@@ -1,4 +1,4 @@
-nav a:hover{
+bnav a:hover{
   background-color: grey;
   color: black;
 }
@@ -14,7 +14,7 @@ nav a{
 }
 
 body{
-  background-image:url("https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg");
+  background-image:url("https://t3.ftcdn.net/jpg/04/43/09/76/360_F_443097603_5VwpWjLMJxGzJ4GQDSePOBuKwE7wODs2.jpg");
   background-repeat:no-repeat;
   background-size:cover;
 }
@@ -50,3 +50,12 @@ color: #c4d9ff;
 img{
 padding:10px;
 }
+
+p, li {
+font-size:18px;
+}
+
+img {  
+max-width: auto;  
+height: 300px;  
+}  
